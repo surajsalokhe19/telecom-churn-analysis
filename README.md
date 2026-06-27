@@ -80,9 +80,9 @@ telecom-churn-analysis/
 ---
 
 ## 📈 Dashboard Preview
-![Churn Overview](outputs/02_churn_distribution.png)
-![Contract Analysis](outputs/02_churn_by_contract.png)
-![Charges vs Churn](outputs/02_charges_vs_churn.png)
+![Churn Overview](outputs/churn_distribution.png)
+![Contract Analysis](outputs/churn_by_contract.png)
+![Charges vs Churn](outputs/charges_vs_churn.png)
 
 ---
 
