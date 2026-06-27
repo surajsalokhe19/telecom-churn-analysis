@@ -1,4 +1,4 @@
-markdown# 📱 Telecom Customer Churn Analysis
+# 📱 Telecom Customer Churn Analysis
 ### Python • MySQL • Power BI • Machine Learning
 
 ---
